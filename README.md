@@ -35,6 +35,9 @@ This repository consists of three main folders:
 
 3. Go to http://0.0.0.0:3001/
 
+![alt text](https://github.com/Tsakunelson/Disaster_Response/blob/master/images/header.png)
+
+![alt text](https://github.com/Tsakunelson/Disaster_Response/blob/master/images/plots.png)
 
 
 ## Authors, Licensing, Acknowledgements
