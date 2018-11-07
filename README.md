@@ -10,9 +10,9 @@ Disaster response project with ETL and model deployment applied
 ## Project Motivation
 
 Model, Build and Deploy a framework to enhance accurate reponse from target organizations, given streams of messages 
-by civilians in natural dister sites. This project has 2 main objectives on target:
+by civilians in natural dister sites. This project has 2 main objectives:
 
-- I dentifying and structing incoming messages from natural disaster victims.
+- I dentify and structure incoming messages from natural disaster victims.
 - Automatically Classify the messages into categories to enhance and accurate response in real time. 
 
 
